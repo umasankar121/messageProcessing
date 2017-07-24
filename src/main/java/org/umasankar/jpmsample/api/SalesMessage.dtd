@@ -1,0 +1,5 @@
+<!ELEMENT Sales (date, product, price, quantity)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT product (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT quantity (#PCDATA)>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="YES" ?>
+<Sales>
+    <product>{product}</product>
+    <quantity>{quantity}</quantity>
+    <price>{price}</price>
+</Sales>

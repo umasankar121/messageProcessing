@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE Adjustment [
+        <!ELEMENT Adjustment (date, product, operation, amount)>
+        <!ELEMENT date (#PCDATA)>
+        <!ELEMENT product (#PCDATA)>
+        <!ELEMENT operation (#PCDATA)>
+        <!ELEMENT amount (#PCDATA)>
+        ]>
